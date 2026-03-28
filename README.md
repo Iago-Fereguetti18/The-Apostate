@@ -76,23 +76,9 @@
 ## 📌 Requisitos para Rodar o Projeto  
 - **Unity 2022.x ou superior** (com suporte ao Universal Render Pipeline)
 - **Input System** instalado via Package Manager
-- **Git** para controle de versões
-- (Opcional) **Photoshop / GIMP** para ajustes gráficos
 
 ---
 
 ## 📄 Licença  
 Este projeto é de caráter **acadêmico** e não possui uma licença pública.  
 Seu uso é restrito a fins educacionais.
-
----
-
-## 📞 Contato  
-Caso tenha dúvidas ou sugestões, entre em contato com a equipe pelos links do LinkedIn! 🚀
-
----
-
-# 📷 (Sugestão) Adicionar Screenshots
-> Você pode adicionar prints da cena principal para deixar o repositório mais apresentável!
-
----
